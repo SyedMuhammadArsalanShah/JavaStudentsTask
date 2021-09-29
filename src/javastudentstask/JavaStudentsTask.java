@@ -110,3 +110,21 @@ public class JavaStudentsTask {
     }
 
 }
+//run:
+//Enter any number:
+//5
+//****** Prime Number Program ******
+//5 is  a Prime Number
+//****** Factorial Program ******
+//Factorial of 5 is 120
+//Factorial of 5 is 120
+//****** Palindrome Program ******
+//Enter String 
+//aamna
+//it is not Palindrome : aamna
+//****** String Reverse Program ****** 
+//String Buffer Class 
+//Reverse of aamna is: anmaa
+//Without String Buffer Method 
+//Reverse of aamna is: anmaa
+//BUILD SUCCESSFUL (total time: 17 seconds)
